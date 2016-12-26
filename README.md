@@ -1,4 +1,4 @@
-# Gilp Check Commit
+# Gilp Check Branch Name
 
 [![travis][travis-image]][travis-url]
 [![coverage][coveralls-image]][coveralls-url]

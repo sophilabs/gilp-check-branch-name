@@ -1,7 +1,7 @@
 {
   "name": "gilp-check-branch-name",
   "version": "0.0.3",
-  "description": "Gilp plugin to validate commit messages.",
+  "description": "Gilp plugin to validate branch names.",
   "main": "lib/index.js",
   "directories": {
     "test": "test"
@@ -16,7 +16,7 @@
   },
   "keywords": [
     "git",
-    "commit message",
+    "branch name",
     "gulpplugin",
     "gilpplugin"
   ],
