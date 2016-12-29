@@ -1,6 +1,6 @@
 {
   "name": "gilp-check-branch-name",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Gilp plugin to validate branch names.",
   "main": "lib/index.js",
   "directories": {
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/sophilabs/gilp-check-branch-name",
   "dependencies": {
-    "gilp-util": "^0.0.6",
+    "gilp-util": "^0.0.7",
     "gulp-util": "^3.0.7",
     "through2": "^2.0.1"
   },
